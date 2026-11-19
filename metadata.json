@@ -1,0 +1,6 @@
+{
+  "name": "Authentic Crete Experiences",
+  "description": "Digital Experience Brochure for Authentic Crete Experiences by Manos Michalitsis with multi-language support (Greek, German, English), interactive add-ons, and direct booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
